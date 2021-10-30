@@ -114,7 +114,7 @@ If you want to see the Greek text in forward line, use [BibleParsing_Greek.ipynb
 Go to [BiblrGateway](https://www.biblegateway.com/) and enter the <book/passage/verse> and the version name.
 <br />
 For English version, here is an example:
-1. ![BibleGateway url](/../<screenshots>/path/to/biblegateway_e.png?raw=true "BibleGateway url")
+1. ![biblegateway_e](https://github.com/okkida7/BibleParsing/blob/screenshots/bibegateway_e.jpg?raw=true)
 2. Open BibleParsing_English.ipynb. Copy and paste the url to the first user input in the ipynb file. <br />![user_input1](/../<screenshots>/path/to/userinput1.png?raw=true "user_input1")
 3. Go to [BlueLetterBible](https://www.blueletterbible.org/) and enter the corresponding <book/passage/verse> and select language mGNT. <br /> ![blb1](/../<screenshots>/path/to/blb1.png?raw=true "blb1")
 4. Right click 'TOOLS'. <br /> ![blb2](/../<screenshots>/path/to/blb2.png?raw=true "blb2")

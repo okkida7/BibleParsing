@@ -1,0 +1,66 @@
+Inasmuch
+ἐπειδήπερ
+CONJ
+as many
+πολλοὶ
+A-NPM
+have undertaken
+ἐπεχείρησαν
+V-AAI-3P
+to compile
+ἀνατάξασθαι
+V-AMN
+an account
+διήγησιν
+N-ASF
+of
+περὶ
+PREP
+the things
+πραγμάτων
+N-GPN
+accomplished
+πεπληροφορημένων
+V-RPP-GPN
+among
+ἐν
+PREP
+us
+ἡμῖν
+P-DP
+just as
+καθὼς
+CONJ
+they were handed down
+παρέδοσαν
+V-AAI-3P
+to us
+ἡμῖν
+P-DP
+by those who
+οἱ
+T-NPM
+from
+ἀπ
+PREP
+the beginning
+ἀρχῆς
+N-GSF
+were
+γενόμενοι
+V-AMP-NPM
+eyewitnesses
+αὐτόπται
+N-NPM
+and
+καὶ
+CONJ
+servants
+ὑπηρέται
+N-NPM
+of the
+τοῦ
+T-GSM
+word
+λόγου
+N-GSM

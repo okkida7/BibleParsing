@@ -24,14 +24,14 @@
 
   <p align="center">
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/okkida7/BibleParsing"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/okkida7/BibleParsing">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/okkida7/BibleParsing/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/okkida7/BibleParsing/issues">Request Feature</a>
   </p>
 </div>
 
@@ -68,8 +68,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-The goal of this project is to identify basic grammar in each verse of the Bible and parse semantically equivalent sentences from different languages into their corresponding grammar. Specifically we will first compare Luke 1 in morphological Greek New Testament(mGNT) and New American Standard Bible 1995(NASB1995) as an example. 
+The goal of this project is to identify Greek grammar in each verse of the Bible and parse semantically equivalent sentences from different languages into their corresponding grammar. Specifically we will first compare books in [morphological Greek New Testament(mGNT)](https://www.biblegateway.com/versions/SBL-Greek-New-Testament-SBLGNT/) and [New American Standard Bible 1995(NASB1995)](https://www.biblegateway.com/versions/New-American-Standard-Bible-NASB1995/). Same method can be applied to other languages.
+ <br />
 The text resources come from [blueletterbible.org](blueletterbible.org) and [biblegateway.com](blueletterbible.org)
+<br /> 
+For detailed information about Greek grammar, refer to [Simplified Greek Grammar](https://www.blueletterbible.org/assets/pdf/grammars/Simplified_Greek_Grammar_v5.pdf). 
 
 <!--  Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description` -->
 
@@ -79,7 +82,7 @@ The text resources come from [blueletterbible.org](blueletterbible.org) and [bib
 
 ### Built With
 
-
+[Jupyter Notebook](https://jupyter.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -93,27 +96,12 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+As well as Python 3, you will need to install [beautifulsoup4 4.10.0](https://pypi.org/project/beautifulsoup4/#files):
+* pip
   ```sh
-  npm install npm@latest -g
+  pip install beautifulsoup4
   ```
-
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+JupyterLab is recommended. To install, see [Installation of the Jupyter Software](https://jupyter.org/install).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -138,7 +126,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [] Feature 3
     - [] Nested Feature
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/okkida7/BibleParsing/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -174,9 +162,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Alexis Jin - xj606@stern.nyu.edu
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/okkida7/BibleParsing](https://github.com/okkida7/BibleParsing)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -195,16 +183,16 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/okkida7/BibleParsing.svg?style=for-the-badge
+[contributors-url]: https://github.com/okkida7/BibleParsing/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/okkida7/BibleParsing.svg?style=for-the-badge
+[forks-url]: https://github.com/okkida7/BibleParsing/network/members
+[stars-shield]: https://img.shields.io/github/stars/okkida7/BibleParsing.svg?style=for-the-badge
+[stars-url]: https://github.com/okkida7/BibleParsing/stargazers
+[issues-shield]: https://img.shields.io/github/issues/okkida7/BibleParsing.svg?style=for-the-badge
+[issues-url]: https://github.com/okkida7/BibleParsing/issues
+[license-shield]: https://img.shields.io/github/license/okkida7/BibleParsing.svg?style=for-the-badge
+[license-url]: https://github.com/okkida7/BibleParsing/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://linkedin.com/in/alexisjin0219
 [product-screenshot]: images/screenshot.png

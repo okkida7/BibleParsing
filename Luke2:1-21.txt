@@ -1,0 +1,888 @@
+Now
+δὲ
+CONJ
+in
+ἐν
+PREP
+those
+ἐκείναις
+D-DPF
+days
+ἡμέραις
+N-DPF
+a decree
+δόγμα
+N-NSN
+went out
+ἐξῆλθεν
+V-AAI-3S
+from Caesar
+Καίσαρος
+N-GSM
+Augustus
+Αὐγούστου
+N-GSM
+that a census be taken
+ἀπογράφεσθαι
+V-PMN
+of all
+πᾶσαν
+A-ASF
+the
+τὴν
+T-ASF
+inhabited earth
+οἰκουμένην
+N-ASF
+This
+αὕτη
+D-NSF
+was the first
+πρώτη
+A-NSF
+census
+ἀπογραφὴ
+N-NSF
+taken
+ἐγένετο
+V-AMI-3S
+while Quirinius
+Κυρηνίου
+N-GSM
+was governor
+ἡγεμονεύοντος
+V-PAP-GSM
+of Syria
+Συρίας
+N-GSF
+And
+καὶ
+CONJ
+everyone
+πάντες
+A-NPM
+was on his way
+ἐπορεύοντο
+V-IMI-3P
+to register for the census
+ἀπογράφεσθαι
+V-PMN
+each
+ἕκαστος
+A-NSM
+to
+εἰς
+PREP
+his own
+ἑαυτοῦ
+P-GSM
+city
+πόλιν
+N-ASF
+Joseph
+Ἰωσὴφ
+N-NSM
+also
+καὶ
+CONJ
+went up
+ἀνέβη
+V-AAI-3S
+from
+ἀπὸ
+PREP
+Galilee
+Γαλιλαίας
+N-GSF
+from
+ἐκ
+PREP
+the city
+πόλεως
+N-GSF
+of Nazareth
+Ναζαρὲθ
+N-GSF
+to
+εἰς
+PREP
+Judea
+Ἰουδαίαν
+N-ASF
+to
+εἰς
+PREP
+the city
+πόλιν
+N-ASF
+of David
+Δαυὶδ
+N-GSM
+which
+ἥτις
+R-NSF
+is called
+καλεῖται
+V-PPI-3S
+Bethlehem
+Βηθλέεμ
+N-NSF
+because
+διὰ
+PREP
+he
+αὐτὸν
+P-ASM
+was
+εἶναι
+V-PAN
+of
+ἐξ
+PREP
+the house
+οἴκου
+N-GSM
+and
+καὶ
+CONJ
+family
+πατριᾶς
+N-GSF
+of David
+Δαυίδ
+N-GSM
+in order to register
+ἀπογράψασθαι
+V-AMN
+along with
+σὺν
+PREP
+Mary
+Μαριὰμ
+N-DSF
+who was engaged
+ἐμνηστευμένῃ
+V-RPP-DSF
+to him
+αὐτῷ
+P-DSM
+and was
+οὔσῃ
+V-PAP-DSF
+with child
+ἐγκύῳ
+A-DSF
+While
+ἐν
+PREP
+they
+αὐτοὺς
+P-APM
+were
+εἶναι
+V-PAN
+there
+ἐκεῖ
+ADV
+the
+αἱ
+T-NPF
+days
+ἡμέραι
+N-NPF
+were completed
+ἐπλήσθησαν
+V-API-3P
+for her
+αὐτήν
+P-ASF
+to give birth
+τεκεῖν
+V-AAN
+And
+καὶ
+CONJ
+she gave birth
+ἔτεκεν
+V-AAI-3S
+to her
+αὐτῆς
+P-GSF
+firstborn
+πρωτότοκον
+A-ASM
+son
+υἱὸν
+N-ASM
+and
+καὶ
+CONJ
+she wrapped
+ἐσπαργάνωσεν
+V-AAI-3S
+Him
+αὐτὸν
+P-ASM
+in cloths
+ἐσπαργάνωσεν
+V-AAI-3S
+and
+καὶ
+CONJ
+laid
+ἀνέκλινεν
+V-AAI-3S
+Him
+αὐτὸν
+P-ASM
+in
+ἐν
+PREP
+a manger
+φάτνῃ
+N-DSF
+because
+διότι
+CONJ
+there was
+ἦν
+V-IAI-3S
+no
+οὐκ
+ADV
+room
+τόπος
+N-NSM
+for them
+αὐτοῖς
+P-DPM
+in
+ἐν
+PREP
+the
+τῷ
+T-DSN
+inn
+καταλύματι
+N-DSN
+In
+ἐν
+PREP
+the
+τῇ
+T-DSF
+same
+αὐτῇ
+A-DSF
+region
+χώρᾳ
+N-DSF
+there were
+ἦσαν
+V-IAI-3P
+some shepherds
+ποιμένες
+N-NPM
+staying out in the fields
+ἀγραυλοῦντες
+V-PAP-NPM
+and
+καὶ
+CONJ
+keeping
+φυλάσσοντες
+V-PAP-NPM
+watch
+φυλακὰς
+N-APF
+over
+ἐπὶ
+PREP
+their
+αὐτῶν
+P-GPM
+flock
+ποίμνην
+N-ASF
+by
+τῆς
+T-GSF
+night
+νυκτὸς
+N-GSF
+And
+καὶ
+CONJ
+an angel
+ἄγγελος
+N-NSM
+of the Lord
+κυρίου
+N-GSM
+suddenly stood before
+ἐπέστη
+V-AAI-3S
+them
+αὐτούς
+P-APM
+and
+καὶ
+CONJ
+the glory
+δόξα
+N-NSF
+of the Lord
+κυρίου
+N-GSM
+shone around
+περιέλαμψεν
+V-AAI-3S
+them
+αὐτοῖς
+P-DPM
+and
+καὶ
+CONJ
+they were
+ἐφοβήθησαν
+V-API-3P
+terribly
+μέγαν
+A-ASM
+frightened
+ἐφοβήθησαν
+V-API-3P
+⇐
+φόβον
+N-ASM
+But
+καὶ
+CONJ
+the
+ὁ
+T-NSM
+angel
+ἄγγελος
+N-NSM
+said
+εἶπεν
+V-AAI-3S
+to them
+αὐτοῖς
+P-DPM
+Do not
+μὴ
+ADV
+be afraid
+φοβεῖσθε
+V-PMM-2P
+for
+γὰρ
+CONJ
+behold
+ἰδοὺ
+PRT
+I bring
+εὐαγγελίζομαι
+V-PMI-1S
+you
+ὑμῖν
+P-DP
+good news
+εὐαγγελίζομαι
+V-PMI-1S
+of great
+μεγάλην
+A-ASF
+joy
+χαρὰν
+N-ASF
+which
+ἥτις
+R-NSF
+will be
+ἔσται
+V-FMI-3S
+for all
+παντὶ
+A-DSM
+the
+τῷ
+T-DSM
+people
+λαῷ
+N-DSM
+for
+ὅτι
+CONJ
+today
+σήμερον
+ADV
+in
+ἐν
+PREP
+the city
+πόλει
+N-DSF
+of David
+Δαυίδ
+N-GSM
+there has been born
+ἐτέχθη
+V-API-3S
+for you
+ὑμῖν
+P-DP
+a Savior
+σωτὴρ
+N-NSM
+who
+ὅς
+R-NSM
+is
+ἐστιν
+V-PAI-3S
+Christ
+Χριστὸς
+N-NSM
+the Lord
+κύριος
+N-NSM
+This
+τοῦτο
+D-NSN
+will be a sign
+σημεῖον
+N-NSN
+for you
+ὑμῖν
+P-DP
+you will find
+εὑρήσετε
+V-FAI-2P
+a baby
+βρέφος
+N-ASN
+wrapped in cloths
+ἐσπαργανωμένον
+V-RPP-ASN
+and
+καὶ
+CONJ
+lying
+κείμενον
+V-PMP-ASN
+in
+ἐν
+PREP
+a manger
+φάτνῃ
+N-DSF
+And
+καὶ
+CONJ
+suddenly
+ἐξαίφνης
+ADV
+there appeared
+ἐγένετο
+V-AMI-3S
+with
+σὺν
+PREP
+the
+τῷ
+T-DSM
+angel
+ἀγγέλῳ
+N-DSM
+a multitude
+πλῆθος
+N-NSN
+of the heavenly
+οὐρανίου
+A-GSF
+host
+στρατιᾶς
+N-GSF
+praising
+αἰνούντων
+V-PAP-GPM
+God
+θεὸν
+N-ASM
+and
+καὶ
+CONJ
+saying
+λεγόντων
+V-PAP-GPM
+Glory
+δόξα
+N-NSF
+to God
+θεῷ
+N-DSM
+in
+ἐν
+PREP
+the highest
+ὑψίστοις
+A-DPN-S
+And
+καὶ
+CONJ
+on
+ἐπὶ
+PREP
+earth
+γῆς
+N-GSF
+peace
+εἰρήνη
+N-NSF
+among
+ἐν
+PREP
+men
+ἀνθρώποις
+N-DPM
+with whom He is pleased
+εὐδοκίας
+N-GSF
+When
+ὡς
+CONJ
+the
+οἱ
+T-NPM
+angels
+ἄγγελοι
+N-NPM
+had gone away
+ἀπῆλθον
+V-AAI-3P
+from
+ἀπ
+PREP
+them
+αὐτῶν
+P-GPM
+into
+εἰς
+PREP
+heaven
+οὐρανὸν
+N-ASM
+the
+οἱ
+T-NPM
+shepherds
+ποιμένες
+N-NPM
+began saying
+ἐλάλουν
+V-IAI-3P
+to
+πρὸς
+PREP
+one another
+ἀλλήλους
+P-APM
+Let us go straight
+διέλθωμεν
+V-AAS-1P
+to
+ἕως
+PREP
+Bethlehem
+Βηθλέεμ
+N-GSF
+then
+δὴ
+PRT
+and
+καὶ
+CONJ
+see
+ἴδωμεν
+V-AAS-1P
+this
+τοῦτο
+D-ASN
+thing
+ῥῆμα
+N-ASN
+that
+τὸ
+T-ASN
+has happened
+γεγονὸς
+V-RAP-ASN
+which
+ὃ
+R-ASN
+the
+ὁ
+T-NSM
+Lord
+κύριος
+N-NSM
+has made known
+ἐγνώρισεν
+V-AAI-3S
+to us
+ἡμῖν
+P-DP
+So
+καὶ
+CONJ
+they came
+ἦλθαν
+V-AAI-3P
+in a hurry
+σπεύσαντες
+V-AAP-NPM
+and
+καὶ
+CONJ
+found their way
+ἀνεῦραν
+V-AAI-3P
+to Mary
+Μαριὰμ
+N-ASF
+and
+καὶ
+CONJ
+Joseph
+Ἰωσὴφ
+N-ASM
+and
+καὶ
+CONJ
+the
+τὸ
+T-ASN
+baby
+βρέφος
+N-ASN
+as He lay
+κείμενον
+V-PMP-ASN
+in
+ἐν
+PREP
+the
+τῇ
+T-DSF
+manger
+φάτνῃ
+N-DSF
+When they had seen this
+ἰδόντες
+V-AAP-NPM
+they made known
+ἐγνώρισαν
+V-AAI-3P
+the
+τοῦ
+T-GSN
+statement
+ῥήματος
+N-GSN
+which had been told
+λαληθέντος
+V-APP-GSN
+them
+αὐτοῖς
+P-DPM
+about
+περὶ
+PREP
+this
+τούτου
+D-GSN
+Child
+παιδίου
+N-GSN
+And
+καὶ
+CONJ
+all
+πάντες
+A-NPM
+who
+οἱ
+T-NPM
+heard it
+ἀκούσαντες
+V-AAP-NPM
+wondered
+ἐθαύμασαν
+V-AAI-3P
+at
+περὶ
+PREP
+the things which
+τῶν
+T-GPN
+were told
+λαληθέντων
+V-APP-GPN
+them
+αὐτούς
+P-APM
+by
+ὑπὸ
+PREP
+the
+τῶν
+T-GPM
+shepherds
+ποιμένων
+N-GPM
+But
+δὲ
+CONJ
+Mary
+Μαριὰμ
+N-NSF
+treasured
+συνετήρει
+V-IAI-3S
+all
+πάντα
+A-APN
+these
+ταῦτα
+D-APN
+things
+ῥήματα
+N-APN
+pondering them
+συμβάλλουσα
+V-PAP-NSF
+in
+ἐν
+PREP
+her
+αὐτῆς
+P-GSF
+heart
+καρδίᾳ
+N-DSF
+The
+
+
+shepherds
+ποιμένες
+N-NPM
+went back
+ὑπέστρεψαν
+V-AAI-3P
+glorifying
+δοξάζοντες
+V-PAP-NPM
+and
+καὶ
+CONJ
+praising
+αἰνοῦντες
+V-PAP-NPM
+God
+θεὸν
+N-ASM
+for
+ἐπὶ
+PREP
+all
+πᾶσιν
+A-DPN
+that
+οἷς
+R-DPN
+they had heard
+ἤκουσαν
+V-AAI-3P
+and
+καὶ
+CONJ
+seen
+εἶδον
+V-AAI-3P
+just as
+καθὼς
+CONJ
+had been told
+ἐλαλήθη
+V-API-3S
+them
+αὐτούς
+P-APM
+And
+καὶ
+CONJ
+when
+ὅτε
+CONJ
+eight
+ὀκτὼ
+A-NPF
+days
+ἡμέραι
+N-NPF
+had passed
+ἐπλήσθησαν
+V-API-3P
+before His
+αὐτόν
+P-ASM
+circumcision
+περιτεμεῖν
+V-AAN
+His
+αὐτοῦ
+P-GSM
+name
+ὄνομα
+N-NSN
+was then called
+ἐκλήθη
+V-API-3S
+Jesus
+Ἰησοῦς
+N-NSM
+the
+τὸ
+T-NSN
+name given
+κληθὲν
+V-APP-NSN
+by
+ὑπὸ
+PREP
+the
+τοῦ
+T-GSM
+angel
+ἀγγέλου
+N-GSM
+before
+πρὸ
+PREP
+He
+αὐτὸν
+P-ASM
+was conceived
+συλλημφθῆναι
+V-APN
+in
+ἐν
+PREP
+the
+τῇ
+T-DSF
+womb
+κοιλίᾳ
+N-DSF

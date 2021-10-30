@@ -111,22 +111,22 @@ If you want to see the English text in forward line(original word order), use [B
 <br />
 If you want to see the Greek text in forward line, use [BibleParsing_Greek.ipynb](https://github.com/okkida7/BibleParsing/blob/screenshots/BibleParsing_Greek.ipynb).
 <br />
-Go to [BiblrGateway](https://www.biblegateway.com/) and enter the <book/passage/verse> and the version name.
+Go to [BibleGateway](https://www.biblegateway.com/) and enter the <book/passage/verse> and the version name.
 <br />
 For English version, here is an example:
-1. ![biblegateway_e](https://github.com/okkida7/BibleParsing/blob/screenshots/bibegateway_e.jpg?raw=true)
-2. Open BibleParsing_English.ipynb. Copy and paste the url to the first user input in the ipynb file. <br />![user_input1](/../<screenshots>/path/to/userinput1.png?raw=true "user_input1")
-3. Go to [BlueLetterBible](https://www.blueletterbible.org/) and enter the corresponding <book/passage/verse> and select language mGNT. <br /> ![blb1](/../<screenshots>/path/to/blb1.png?raw=true "blb1")
-4. Right click 'TOOLS'. <br /> ![blb2](/../<screenshots>/path/to/blb2.png?raw=true "blb2")
-5. Under 'INTERLINEAR', right click 'Rev Inline'. This step will convert the text to Greek-reverse and English-forward order. ![blb3](/../<screenshots>/path/to/blb3.png?raw=true "blb3")
-6. Right click 'View Options', make corresponding changes as shown in the screenshot. <br />![blb4](/../<screenshots>/path/to/blb4.png?raw=true "blb4")
-7. Right click the arrow next to 'Rev Inline'. If you want to see the whole chapter, right click 'Full Chapter'. Copy every word from left to right and top to bottom and paste to a text file. IMPORTANT: make sure to include every word including empty space, exclude any other irrelevant texts. Else the program will not run properly.<br />![blb5](/../<screenshots>/path/to/blb5.png?raw=true "blb5")
-8. Your text file should look like this: <br />![txt1](/../<screenshots>/path/to/txt1.png?raw=true "txt1")<br />Make sure the word type is always English-Greek-ParsingCode from top to bottom and this pattern is repeated until the end.
+1. ![biblegateway_e](https://github.com/okkida7/BibleParsing/blob/screenshots/biblegateway_e.png)
+2. Open BibleParsing_English.ipynb. Copy and paste the url to the first user input in the ipynb file. <br />![user_input1](https://github.com/okkida7/BibleParsing/blob/screenshots/userinput1.png)
+3. Go to [BlueLetterBible](https://www.blueletterbible.org/) and enter the corresponding <book/passage/verse> and select language mGNT. <br /> ![blb1](https://github.com/okkida7/BibleParsing/blob/screenshots/blb1.png)
+4. Right click 'TOOLS'. <br /> ![blb2](https://github.com/okkida7/BibleParsing/blob/screenshots/blb2.png)
+5. Under 'INTERLINEAR', right click 'Rev Inline'. This step will convert the text to Greek-reverse and English-forward order. ![blb3](https://github.com/okkida7/BibleParsing/blob/screenshots/blb3.png)
+6. Right click 'View Options', make corresponding changes as shown in the screenshot. <br />![blb4](https://github.com/okkida7/BibleParsing/blob/screenshots/blb4.png)
+7. Right click the arrow next to 'Rev Inline'. If you want to see the whole chapter, right click 'Full Chapter'. Copy every word from left to right and top to bottom and paste to a text file. IMPORTANT: make sure to include every word including empty space, exclude any other irrelevant texts. Else the program will not run properly.<br />![blb5](https://github.com/okkida7/BibleParsing/blob/screenshots/blb5.png)
+8. Your text file should look like this: <br />![txt1](https://github.com/okkida7/BibleParsing/blob/screenshots/txt1.png)<br />Make sure the word type is always English-Greek-ParsingCode from top to bottom and this pattern is repeated until the end.
 9. If you have cloned the repository, upload the text file to your branch. If you have downloaded the code to your desktop, make sure your text file and ipynb file are in the same directory.
-10. Enter txt file name in BibleParsing_English.ipynb. Include '.txt'. Then enter the starting verse number and the ending verse number. Here is an example: <br />![userinput2](/../<screenshots>/path/to/userinput2.png?raw=true "userinput2")
-11. The output should be color-coded, line by line with verse number and punctuations. <br />![output1](/../<screenshots>/path/to/output1.png?raw=true "output1")
+10. Enter txt file name in BibleParsing_English.ipynb. Include '.txt'. Then enter the starting verse number and the ending verse number. Here is an example: <br />![userinput2](https://github.com/okkida7/BibleParsing/blob/screenshots/userinput2.png)
+11. The output should be color-coded, line by line with verse number and punctuations. <br />![output1](https://github.com/okkida7/BibleParsing/blob/screenshots/output1.png)
 <br />
-For Greek version, go to BibleGateway and change the version to 'SBL GREEK NEW TESTAMENT(SBLGNT)'. go to BlueLetterBible and this time right click 'Forward Inline'. Repeat the same every other step for BibleParsing_Greek.ipynb.
+For Greek version, open BibleParsing_Greek.ipynb. Go to BibleGateway and change the version to 'SBL GREEK NEW TESTAMENT(SBLGNT)'. Go to BlueLetterBible and this time right click 'Forward Inline'. Every other step is the same.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -140,7 +140,7 @@ BibleParsing_English
 - Get index from texts in order to form separate sentences
 - Load bible book from blueletterbible.org and arrange text into group of 3: (English, Greek, Parsing Code)
 - Apply color
-    - Use dictionary to assign words with colors<br />![parsecode](/../<screenshots>/path/to/parsecode.png?raw=true "parsecode")
+    - Use dictionary to assign words with colors<br />![parsecode](https://github.com/okkida7/BibleParsing/blob/screenshots/parsecode.png)
     - Define function to convert parsing code to color code
 - Complete token for each verse in the paragraph
     - Get user's paragraph according to starting verse number and ending verse number
@@ -185,7 +185,7 @@ Project Link: [https://github.com/okkida7/BibleParsing](https://github.com/okkid
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* Justin Alfred has made the following Hebrew and Greek Grammars available to Blue Letter Bible.[Greek Grammar](https://www.blueletterbible.org/assets/pdf/grammars/Simplified_Greek_Grammar_v5.pdf). 
+* Justin Alfred has made the following Hebrew and Greek Grammars available to Blue Letter Bible. [Greek Grammar](https://www.blueletterbible.org/assets/pdf/grammars/Simplified_Greek_Grammar_v5.pdf). 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

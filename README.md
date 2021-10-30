@@ -51,12 +51,10 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -72,7 +70,7 @@ The goal of this project is to identify Greek grammar in each verse of the Bible
  <br />
 The text resources come from [blueletterbible.org](blueletterbible.org) and [biblegateway.com](blueletterbible.org)
 <br /> 
-For detailed information about Greek grammar, refer to [Simplified Greek Grammar](https://www.blueletterbible.org/assets/pdf/grammars/Simplified_Greek_Grammar_v5.pdf). 
+For detailed information about Greek grammar, refer to [Greek Grammar](https://www.blueletterbible.org/assets/pdf/grammars/Simplified_Greek_Grammar_v5.pdf). 
 
 <!--  Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description` -->
 
@@ -109,11 +107,26 @@ JupyterLab is recommended. To install, see [Installation of the Jupyter Software
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
+If you want to see the English text in forward line(original word order), use [BibleParsing_English.ipynb](https://github.com/okkida7/BibleParsing/blob/screenshots/BibleParsing_English.ipynb).
+<br />
+If you want to see the Greek text in forward line, use [BibleParsing_Greek.ipynb](https://github.com/okkida7/BibleParsing/blob/screenshots/BibleParsing_Greek.ipynb).
+<br />
+Go to [BibleGateway](https://www.biblegateway.com/) and enter the <book/passage/verse> and the version name.
+<br />
+For English version, here is an example:
+1. ![biblegateway_e](https://github.com/okkida7/BibleParsing/blob/screenshots/biblegateway_e.png)
+2. Open BibleParsing_English.ipynb. Copy and paste the url to the first user input in the ipynb file. <br />![user_input1](https://github.com/okkida7/BibleParsing/blob/screenshots/userinput1.png)
+3. Go to [BlueLetterBible](https://www.blueletterbible.org/) and enter the corresponding <book/passage/verse> and select language mGNT. <br /> ![blb1](https://github.com/okkida7/BibleParsing/blob/screenshots/blb1.png)
+4. Right click 'TOOLS'. <br /> ![blb2](https://github.com/okkida7/BibleParsing/blob/screenshots/blb2.png)
+5. Under 'INTERLINEAR', right click 'Rev Inline'. This step will convert the text to Greek-reverse and English-forward order. ![blb3](https://github.com/okkida7/BibleParsing/blob/screenshots/blb3.png)
+6. Right click 'View Options', make corresponding changes as shown in the screenshot. <br />![blb4](https://github.com/okkida7/BibleParsing/blob/screenshots/blb4.png)
+7. Right click the arrow next to 'Rev Inline'. If you want to see the whole chapter, right click 'Full Chapter'. Copy every word from left to right and top to bottom and paste to a text file. IMPORTANT: make sure to include every word including empty space, exclude any other irrelevant texts. Else the program will not run properly.<br />![blb5](https://github.com/okkida7/BibleParsing/blob/screenshots/blb5.png)
+8. Your text file should look like this: <br />![txt1](https://github.com/okkida7/BibleParsing/blob/screenshots/txt1.png)<br />Make sure the word type is always English-Greek-ParsingCode from top to bottom and this pattern is repeated until the end.
+9. If you have cloned the repository, upload the text file to your branch. If you have downloaded the code to your desktop, make sure your text file and ipynb file are in the same directory.
+10. Enter txt file name in BibleParsing_English.ipynb. Include '.txt'. Then enter the starting verse number and the ending verse number. Here is an example: <br />![userinput2](https://github.com/okkida7/BibleParsing/blob/screenshots/userinput2.png)
+11. The output should be color-coded, line by line with verse number and punctuations. <br />![output1](https://github.com/okkida7/BibleParsing/blob/screenshots/output1.png)
+<br />
+For Greek version, open BibleParsing_Greek.ipynb. Go to BibleGateway and change the version to 'SBL GREEK NEW TESTAMENT(SBLGNT)'. Go to BlueLetterBible and this time right click 'Forward Inline'. Every other step is the same.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -121,33 +134,32 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [] Feature 1
-- [] Feature 2
-- [] Feature 3
-    - [] Nested Feature
+BibleParsing_English
+- Load English bible book from biblegateway.com
+- Initial clean (includes removing footnotes such as "(A)","[a]", unwanted annotations)
+- Get index from texts in order to form separate sentences
+- Load bible book from blueletterbible.org and arrange text into group of 3: (English, Greek, Parsing Code)
+- Apply color
+    - Use dictionary to assign words with colors<br />![parsecode](https://github.com/okkida7/BibleParsing/blob/screenshots/parsecode.png)
+    - Define function to convert parsing code to color code
+- Complete token for each verse in the paragraph
+    - Get user's paragraph according to starting verse number and ending verse number
+    - Get token from txt file
+    - Get list of verses with correct tokens that match the mapping text file
+    - Define token(string,item) 
+          - string: the original sentence
+          - item: the token we want to apply to each word in sentence
+- Get number's index for user's paragraph
+- Print complete color-coded user paragraph with verse number, punctuation, and line break
+
+BibleParsing_Greek
+- Similar step
+- More handling on texts because the encoding is different for the same word in blueletterbible.org and biblegateway
+
 
 See the [open issues](https://github.com/okkida7/BibleParsing/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- LICENSE -->
@@ -173,9 +185,7 @@ Project Link: [https://github.com/okkida7/BibleParsing](https://github.com/okkid
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* Justin Alfred has made the following Hebrew and Greek Grammars available to Blue Letter Bible. [Greek Grammar](https://www.blueletterbible.org/assets/pdf/grammars/Simplified_Greek_Grammar_v5.pdf). 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
